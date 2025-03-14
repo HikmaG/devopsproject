@@ -64,7 +64,6 @@ docker-compose up --build -d
 4) Verify that all containers are running:
    
 docker ps
-
 6) Open a browser and navigate to:
 Frontend: http://localhost:8080
 
